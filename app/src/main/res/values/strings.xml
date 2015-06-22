@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+
+    <string name="team_a_name">Team A</string>
+    <string name="team_b_name">Team B</string>
+    <string name="team_a_score">0</string>
+    <string name="team_b_score">0</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
